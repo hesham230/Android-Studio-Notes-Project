@@ -1,0 +1,16 @@
+<resources>
+<string name="app_name">HomeWork_2_Notes</string>
+<string name="btnDeleteq">Delete</string>
+<string name="BtnEdit">Edit</string>
+<string name="BtnUpdate">Update</string>
+
+<!-- TODO: Remove or change this placeholder text -->
+<string name="hello_blank_fragment">Hello blank fragment</string>
+<string name="_add">ADD</string>
+<string name="_update">UPDATE</string>
+<string name="btn_edit">Edit</string>
+    <string name="sign">Sign In</string>
+    <string name="Create">Create new account</string>
+
+
+</resources>
